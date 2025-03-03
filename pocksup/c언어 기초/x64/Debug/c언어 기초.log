@@ -1,2 +1,4 @@
-﻿  자료형과 표준 입출력.cpp
-  c언어 기초.vcxproj -> C:\Users\rudal\source\repos\c언어 기초\x64\Debug\c언어 기초.exe
+﻿  asd.cpp
+D:\guswn3717\github\Test\preparation\pocksup\asd.cpp(14,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+D:\guswn3717\github\Test\preparation\pocksup\asd.cpp(14,9): warning C4313: 'printf': 서식 문자열의 '%d'이(가) int *' 형식의 인수 1과(와) 충돌합니다.
+  c언어 기초.vcxproj -> D:\guswn3717\github\Test\preparation\pocksup\x64\Debug\c언어 기초.exe

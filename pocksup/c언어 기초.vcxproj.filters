@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="자료형과 표준 입출력.cpp">
+    <ClCompile Include="asd.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
