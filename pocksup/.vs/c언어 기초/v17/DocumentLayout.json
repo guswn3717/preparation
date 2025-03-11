@@ -3,8 +3,7 @@
   "WorkspaceRootPath": "D:\\guswn3717\\github\\Test\\preparation\\pocksup\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1EAD26F1-D031-4790-B8CA-6AE0901595C1}|c\uC5B8\uC5B4 \uAE30\uCD08.vcxproj|D:\\guswn3717\\github\\Test\\preparation\\pocksup\\asd.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1EAD26F1-D031-4790-B8CA-6AE0901595C1}|c\uC5B8\uC5B4 \uAE30\uCD08.vcxproj|solutionrelative:asd.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{BDD7F2B9-EED2-4721-8AD8-B7F9333EABF5}|..\\while\\while.vcxproj|D:\\guswn3717\\github\\Test\\preparation\\while\\123.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,21 +13,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 446,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "asd.cpp",
-              "DocumentMoniker": "D:\\guswn3717\\github\\Test\\preparation\\pocksup\\asd.cpp",
-              "RelativeDocumentMoniker": "asd.cpp",
-              "ToolTip": "D:\\guswn3717\\github\\Test\\preparation\\pocksup\\asd.cpp",
-              "RelativeToolTip": "asd.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-12T12:02:12.999Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
@@ -36,6 +22,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "123.cpp",
+              "DocumentMoniker": "D:\\guswn3717\\github\\Test\\preparation\\while\\123.cpp",
+              "RelativeDocumentMoniker": "..\\while\\123.cpp",
+              "ToolTip": "D:\\guswn3717\\github\\Test\\preparation\\while\\123.cpp*",
+              "RelativeToolTip": "..\\while\\123.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-15T11:06:54.943Z",
+              "EditorCaption": ""
             }
           ]
         }
