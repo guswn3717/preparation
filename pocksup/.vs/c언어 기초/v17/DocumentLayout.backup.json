@@ -3,15 +3,6 @@
   "WorkspaceRootPath": "D:\\guswn3717\\github\\Test\\preparation\\pocksup\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D7B24695-F218-4EC6-8726-89CA835613C2}|..\\\uBB38\uC790 \uBC30\uC5F4\\\uBB38\uC790 \uBC30\uC5F4.vcxproj|D:\\guswn3717\\github\\Test\\preparation\\\uBB38\uC790 \uBC30\uC5F4\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69989F03-312A-4592-BFF4-9DF68D8E58C6}|..\\\uD3EC\uC778\uD130\uC640 \uBA54\uBAA8\uB9AC\\\uD3EC\uC778\uD130\uC640 \uBA54\uBAA8\uB9AC.vcxproj|D:\\guswn3717\\github\\Test\\preparation\\\uD3EC\uC778\uD130\uC640 \uBA54\uBAA8\uB9AC\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{58C161B3-A237-435C-A2D3-BBA55A33063F}|..\\asd\\asd.vcxproj|D:\\guswn3717\\github\\Test\\preparation\\asd\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1EAD26F1-D031-4790-B8CA-6AE0901595C1}|c\uC5B8\uC5B4 \uAE30\uCD08.vcxproj|D:\\guswn3717\\github\\Test\\preparation\\pocksup\\asd.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{1EAD26F1-D031-4790-B8CA-6AE0901595C1}|c\uC5B8\uC5B4 \uAE30\uCD08.vcxproj|solutionrelative:asd.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -23,63 +14,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 446,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "asd.cpp",
+              "DocumentMoniker": "D:\\guswn3717\\github\\Test\\preparation\\pocksup\\asd.cpp",
+              "RelativeDocumentMoniker": "asd.cpp",
+              "ToolTip": "D:\\guswn3717\\github\\Test\\preparation\\pocksup\\asd.cpp*",
+              "RelativeToolTip": "asd.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-12T12:02:12.999Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FileName.cpp",
-              "DocumentMoniker": "D:\\guswn3717\\github\\Test\\preparation\\\uBB38\uC790 \uBC30\uC5F4\\FileName.cpp",
-              "RelativeDocumentMoniker": "..\\\uBB38\uC790 \uBC30\uC5F4\\FileName.cpp",
-              "ToolTip": "D:\\guswn3717\\github\\Test\\preparation\\\uBB38\uC790 \uBC30\uC5F4\\FileName.cpp",
-              "RelativeToolTip": "..\\\uBB38\uC790 \uBC30\uC5F4\\FileName.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-03T08:39:41.674Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FileName.cpp",
-              "DocumentMoniker": "D:\\guswn3717\\github\\Test\\preparation\\\uD3EC\uC778\uD130\uC640 \uBA54\uBAA8\uB9AC\\FileName.cpp",
-              "RelativeDocumentMoniker": "..\\\uD3EC\uC778\uD130\uC640 \uBA54\uBAA8\uB9AC\\FileName.cpp",
-              "ToolTip": "D:\\guswn3717\\github\\Test\\preparation\\\uD3EC\uC778\uD130\uC640 \uBA54\uBAA8\uB9AC\\FileName.cpp",
-              "RelativeToolTip": "..\\\uD3EC\uC778\uD130\uC640 \uBA54\uBAA8\uB9AC\\FileName.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-03T08:03:27.805Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FileName.cpp",
-              "DocumentMoniker": "D:\\guswn3717\\github\\Test\\preparation\\asd\\FileName.cpp",
-              "RelativeDocumentMoniker": "..\\asd\\FileName.cpp",
-              "ToolTip": "D:\\guswn3717\\github\\Test\\preparation\\asd\\FileName.cpp",
-              "RelativeToolTip": "..\\asd\\FileName.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-03T07:52:38.986Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "asd.cpp",
-              "DocumentMoniker": "D:\\guswn3717\\github\\Test\\preparation\\pocksup\\asd.cpp",
-              "RelativeDocumentMoniker": "asd.cpp",
-              "ToolTip": "D:\\guswn3717\\github\\Test\\preparation\\pocksup\\asd.cpp",
-              "RelativeToolTip": "asd.cpp",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-01T18:28:59.342Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             }
           ]
         }
